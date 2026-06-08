@@ -7,7 +7,6 @@ https://github.com/ayush-agarwal-0502/portfolio-decks-ayush-agarwal/blob/main/Ap
 
 https://github.com/ayush-agarwal-0502/portfolio-decks-ayush-agarwal/blob/main/Automotive%20Intelligence%20%E2%80%93%20Closing%20the%20Information%20Gap%20via%20telemetry.pdf
 
-https://github.com/ayush-agarwal-0502/portfolio-decks-ayush-agarwal/blob/main/Catking%20features%20ideas%20Ayush%20Agarwal.pdf
 
 https://github.com/ayush-agarwal-0502/portfolio-decks-ayush-agarwal/blob/main/Queues%20in%20Amusement%20park%20case%20study%20%20(2).pdf
 
